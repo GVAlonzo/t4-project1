@@ -1,5 +1,6 @@
 # API Key
 api_keys.py
+configure.py
 
 # Mac Compatibility
 .DS_Store
